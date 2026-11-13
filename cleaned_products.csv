@@ -1,0 +1,151 @@
+product_id,product_name,category,price
+P0001,Electronics Item 1,Electronics,14256.38
+P0002,Electronics Item 2,Electronics,36439.9
+P0003,Electronics Item 3,Electronics,13351.49
+P0004,Electronics Item 4,Electronics,12469.41
+P0005,Electronics Item 5,Electronics,35683.22
+P0006,Electronics Item 6,Electronics,27871.26
+P0007,Electronics Item 7,Electronics,36035.54
+P0008,Electronics Item 8,Electronics,7924.25
+P0009,Electronics Item 9,Electronics,38187.28
+P0010,Electronics Item 10,Electronics,25284.2
+P0011,Electronics Item 11,Electronics,27385.33
+P0012,Electronics Item 12,Electronics,36734.3
+P0013,Electronics Item 13,Electronics,16468.61
+P0014,Electronics Item 14,Electronics,29343.85
+P0015,Electronics Item 15,Electronics,26332.94
+P0016,Electronics Item 16,Electronics,31934.6
+P0017,Electronics Item 17,Electronics,36083.83
+P0018,Electronics Item 18,Electronics,27842.31
+P0019,Electronics Item 19,Electronics,4570.3
+P0020,Electronics Item 20,Electronics,8959.33
+P0021,Electronics Item 21,Electronics,38251.17
+P0022,Electronics Item 22,Electronics,38808.72
+P0023,Electronics Item 23,Electronics,38761.71
+P0024,Electronics Item 24,Electronics,3398.38
+P0025,Electronics Item 25,Electronics,16533.03
+P0026,Fashion Item 1,Fashion,3870.46
+P0027,Fashion Item 2,Fashion,3838.56
+P0028,Fashion Item 3,Fashion,703.77
+P0029,Fashion Item 4,Fashion,3164.6
+P0030,Fashion Item 5,Fashion,971.49
+P0031,Fashion Item 6,Fashion,2618.08
+P0032,Fashion Item 7,Fashion,1426.52
+P0033,Fashion Item 8,Fashion,549.86
+P0034,Fashion Item 9,Fashion,676.09
+P0035,Fashion Item 10,Fashion,4581.2
+P0036,Fashion Item 11,Fashion,3799.84
+P0037,Fashion Item 12,Fashion,4679.57
+P0038,Fashion Item 13,Fashion,2508.95
+P0039,Fashion Item 14,Fashion,2242.47
+P0040,Fashion Item 15,Fashion,1984.51
+P0041,Fashion Item 16,Fashion,3196.64
+P0042,Fashion Item 17,Fashion,1952.33
+P0043,Fashion Item 18,Fashion,3807.48
+P0044,Fashion Item 19,Fashion,4066.19
+P0045,Fashion Item 20,Fashion,4416.47
+P0046,Fashion Item 21,Fashion,1441.16
+P0047,Fashion Item 22,Fashion,2777.0
+P0048,Fashion Item 23,Fashion,1350.19
+P0049,Fashion Item 24,Fashion,476.51
+P0050,Fashion Item 25,Fashion,3626.78
+P0051,Home & Kitchen Item 1,Home & Kitchen,4504.6
+P0052,Home & Kitchen Item 2,Home & Kitchen,5860.44
+P0053,Home & Kitchen Item 3,Home & Kitchen,929.08
+P0054,Home & Kitchen Item 4,Home & Kitchen,7965.33
+P0055,Home & Kitchen Item 5,Home & Kitchen,7956.2
+P0056,Home & Kitchen Item 6,Home & Kitchen,3853.75
+P0057,Home & Kitchen Item 7,Home & Kitchen,6961.96
+P0058,Home & Kitchen Item 8,Home & Kitchen,2137.66
+P0059,Home & Kitchen Item 9,Home & Kitchen,5966.14
+P0060,Home & Kitchen Item 10,Home & Kitchen,7064.0
+P0061,Home & Kitchen Item 11,Home & Kitchen,6563.66
+P0062,Home & Kitchen Item 12,Home & Kitchen,6541.25
+P0063,Home & Kitchen Item 13,Home & Kitchen,3838.46
+P0064,Home & Kitchen Item 14,Home & Kitchen,6604.92
+P0065,Home & Kitchen Item 15,Home & Kitchen,5602.96
+P0066,Home & Kitchen Item 16,Home & Kitchen,1276.5
+P0067,Home & Kitchen Item 17,Home & Kitchen,1134.93
+P0068,Home & Kitchen Item 18,Home & Kitchen,6232.4
+P0069,Home & Kitchen Item 19,Home & Kitchen,5097.35
+P0070,Home & Kitchen Item 20,Home & Kitchen,4275.16
+P0071,Home & Kitchen Item 21,Home & Kitchen,7281.28
+P0072,Home & Kitchen Item 22,Home & Kitchen,5361.83
+P0073,Home & Kitchen Item 23,Home & Kitchen,3320.14
+P0074,Home & Kitchen Item 24,Home & Kitchen,3457.97
+P0075,Home & Kitchen Item 25,Home & Kitchen,4940.64
+P0076,Books Item 1,Books,708.22
+P0077,Books Item 2,Books,551.48
+P0078,Books Item 3,Books,507.01
+P0079,Books Item 4,Books,681.52
+P0080,Books Item 5,Books,664.21
+P0081,Books Item 6,Books,764.28
+P0082,Books Item 7,Books,150.04
+P0083,Books Item 8,Books,703.96
+P0084,Books Item 9,Books,511.01
+P0085,Books Item 10,Books,159.75
+P0086,Books Item 11,Books,643.21
+P0087,Books Item 12,Books,673.23
+P0088,Books Item 13,Books,518.9
+P0089,Books Item 14,Books,735.04
+P0090,Books Item 15,Books,340.2
+P0091,Books Item 16,Books,261.53
+P0092,Books Item 17,Books,380.59
+P0093,Books Item 18,Books,428.04
+P0094,Books Item 19,Books,656.75
+P0095,Books Item 20,Books,776.42
+P0096,Books Item 21,Books,676.73
+P0097,Books Item 22,Books,239.19
+P0098,Books Item 23,Books,392.97
+P0099,Books Item 24,Books,226.73
+P0100,Books Item 25,Books,649.38
+P0101,Beauty Item 1,Beauty,857.29
+P0102,Beauty Item 2,Beauty,1647.35
+P0103,Beauty Item 3,Beauty,2406.72
+P0104,Beauty Item 4,Beauty,2062.18
+P0105,Beauty Item 5,Beauty,1000.37
+P0106,Beauty Item 6,Beauty,1098.67
+P0107,Beauty Item 7,Beauty,2012.09
+P0108,Beauty Item 8,Beauty,1715.98
+P0109,Beauty Item 9,Beauty,424.72
+P0110,Beauty Item 10,Beauty,2640.88
+P0111,Beauty Item 11,Beauty,1610.95
+P0112,Beauty Item 12,Beauty,1499.08
+P0113,Beauty Item 13,Beauty,715.55
+P0114,Beauty Item 14,Beauty,1224.43
+P0115,Beauty Item 15,Beauty,1098.55
+P0116,Beauty Item 16,Beauty,921.6
+P0117,Beauty Item 17,Beauty,1767.11
+P0118,Beauty Item 18,Beauty,1467.48
+P0119,Beauty Item 19,Beauty,2684.21
+P0120,Beauty Item 20,Beauty,2832.83
+P0121,Beauty Item 21,Beauty,775.5
+P0122,Beauty Item 22,Beauty,435.3
+P0123,Beauty Item 23,Beauty,2388.21
+P0124,Beauty Item 24,Beauty,2985.36
+P0125,Beauty Item 25,Beauty,2611.26
+P0126,Sports Item 1,Sports,603.8
+P0127,Sports Item 2,Sports,2560.87
+P0128,Sports Item 3,Sports,772.74
+P0129,Sports Item 4,Sports,7458.7
+P0130,Sports Item 5,Sports,5400.1
+P0131,Sports Item 6,Sports,4817.98
+P0132,Sports Item 7,Sports,5168.27
+P0133,Sports Item 8,Sports,2571.08
+P0134,Sports Item 9,Sports,5574.09
+P0135,Sports Item 10,Sports,663.74
+P0136,Sports Item 11,Sports,5955.7
+P0137,Sports Item 12,Sports,6716.13
+P0138,Sports Item 13,Sports,6188.03
+P0139,Sports Item 14,Sports,3256.21
+P0140,Sports Item 15,Sports,7505.86
+P0141,Sports Item 16,Sports,6553.68
+P0142,Sports Item 17,Sports,1503.36
+P0143,Sports Item 18,Sports,2078.24
+P0144,Sports Item 19,Sports,5879.13
+P0145,Sports Item 20,Sports,2888.98
+P0146,Sports Item 21,Sports,1427.12
+P0147,Sports Item 22,Sports,1732.73
+P0148,Sports Item 23,Sports,1824.31
+P0149,Sports Item 24,Sports,4509.0
+P0150,Sports Item 25,Sports,5623.51
